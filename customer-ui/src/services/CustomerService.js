@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8081/customers";
+const API_URL = "http://localhost:8080/customers";
 
 // GET all customers
 const getAll = async () => {
