@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8080/customers";
+const API_URL = "https://customer-service-m697.onrender.com/customers";
 
 // GET all customers
 const getAll = async () => {
